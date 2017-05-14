@@ -1,6 +1,6 @@
 ###DIEGO CALZADA FRAILE. 31/1/2017
 
-#Go to directory in the terminal and open as: python3 Motif_predictor.py miRNA\ Sequences.txt Output.txt
+#Go to directory in the terminal and open as: python3 Motif_finder.py InputFileinFASTA.txt OutputFile.txt
 
 #Function: Opening the fasta sequence
 def opensequence(MyFile):
